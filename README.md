@@ -35,7 +35,7 @@ Your company needs to restrict outgoing traffic from their server using a firewa
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/fKxKjgC.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -62,7 +62,7 @@ Your company needs to restrict outgoing traffic from their server using a firewa
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/sq4XXsX.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -82,7 +82,7 @@ Your company needs to restrict outgoing traffic from their server using a firewa
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/OFNI6ib.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -98,7 +98,7 @@ Your company needs to restrict outgoing traffic from their server using a firewa
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/SDEL7uX.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -130,7 +130,7 @@ Your company needs to restrict outgoing traffic from their server using a firewa
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/On9M8cn.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -158,7 +158,7 @@ Your company needs to restrict outgoing traffic from their server using a firewa
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/i9misO7.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -184,7 +184,7 @@ Your company needs to restrict outgoing traffic from their server using a firewa
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/aB5D9p8.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -206,7 +206,7 @@ Your company needs to restrict outgoing traffic from their server using a firewa
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/CiBOmxN.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -220,7 +220,7 @@ Your company needs to restrict outgoing traffic from their server using a firewa
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/hGeodh3.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -233,7 +233,7 @@ Your company needs to restrict outgoing traffic from their server using a firewa
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/Wv2V3B1.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -245,7 +245,7 @@ Your company needs to restrict outgoing traffic from their server using a firewa
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/aAxPpzc.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -263,7 +263,7 @@ nslookup -type=TXT test.dns.google.com. Dns.google.
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/fiFdtme.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
